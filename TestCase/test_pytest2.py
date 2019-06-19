@@ -13,4 +13,4 @@ class Test_py:
     def test_demo2(self):
         a = 2
         b = 2
-        assert a != b
+        assert a == b
